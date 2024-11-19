@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aishw007
+- 👋 Hi, I’m @Aish007
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Backend
 - 📫 https://www.linkedin.com/in/aishwary-chauhan-729877261/
